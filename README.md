@@ -30,8 +30,126 @@ Publish the website in the given URL.
 
 ## DESIGN TOOL:
 Figma
+## code:
+~~~
+/* Home Page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #FF0808;
+
+/* Login Page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #FFF50F;
+
+/* Saveetha Engineering College */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 13px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* DEPARTMENTS */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 247px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* AI-ML */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 317px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* AI-DS */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 373px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* IOT */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 429px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* CC */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 485px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* Line 3 */
+position: absolute;
+width: 360px;
+height: 0px;
+left: 0px;
+top: 83px;
+border: 4px solid #172DF5;
+
+/* Logo 3 */
+position: absolute;
+width: 105px;
+height: 96px;
+left: 127px;
+top: 117px;
+background: url(Logo.png);
+~~~
 
 ## OUTPUT:
+![output1](https://github.com/raghulS2004/Figma/assets/122069938/2b393ff5-6528-49ff-8561-3a84113d5986)
+![output3](https://github.com/raghulS2004/Figma/assets/122069938/a2bd6b9e-5bb2-4097-a842-846fc417be68)
+![output22](https://github.com/raghulS2004/Figma/assets/122069938/ca522263-7f60-44a3-b796-725302ce1d10)
+
 
 
 ## RESULT:
